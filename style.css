@@ -1,0 +1,55 @@
+.card {
+    margin-top: -47%;
+    height: 317px;
+    width: 1200px;
+    margin-left: 37%;
+    
+}
+
+
+.container {
+    margin-right: 100%;
+    position: relative;
+}
+
+.card-title {
+    margin-bottom: 40px;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.card-body {
+ font-size: 20px;
+}
+
+
+
+.fiveDay {
+    margin-left: 100px;
+}
+
+
+.btn-group {
+    margin-left: 37%;
+    padding: 10px;
+    justify-content: center;
+}
+
+.jumbotron {
+    background-color: rgb(77, 75, 75)
+    
+}
+
+.h1 {
+    /* align-content: center;
+    text-justify: center; */
+    text-align: center;
+}
+
+.btn-primary {
+    height: 370px;
+    width: 300px;
+margin-right: 20px; 
+margin-bottom: 5px !important;
+}
